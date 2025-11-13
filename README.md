@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Puneeth Kumar Amudala</h1>
 <h3 align="center">A passionate Data Scientist 🌟</h3>
 
-- 🌱 I’m currently learning **Machine Learning,SQL**
+- 🌱 I’m currently learning **Agentic AI using LangGraph**
 
-- 💬 Ask me about **Statistics,EDA,Python,Excel,SQL,Machine Learning**
+- 💬 Ask me about **Cloud Data Engineering, Machine Learning, Deep Learning and Generative AI**
 
 - 📫 How to reach me **puneethkumaramudala7@gmail.com**
 
