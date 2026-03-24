@@ -30,7 +30,6 @@ Aspiring **AI/ML & Data Engineering Specialist** with 2 years of experience arch
 ![Python](https://img.shields.io/badge/Python-242a35?style=flat-square&logo=python&logoColor=2196F3)
 ![SQL](https://img.shields.io/badge/SQL-242a35?style=flat-square&logo=postgresql&logoColor=2196F3)
 ![PySpark](https://img.shields.io/badge/PySpark-242a35?style=flat-square&logo=apachespark&logoColor=2196F3)
-![TypeScript](https://img.shields.io/badge/TypeScript-242a35?style=flat-square&logo=typescript&logoColor=2196F3)
 
 ### Cloud & Data Engineering
 ![Azure](https://img.shields.io/badge/Azure-242a35?style=flat-square&logo=microsoftazure&logoColor=2196F3)
