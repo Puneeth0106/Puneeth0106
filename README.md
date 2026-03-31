@@ -1,11 +1,7 @@
 <div align="center">
-
 # Hi, I'm Puneeth Kumar Amudala 👋
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Syne+Mono&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+ML+Engineer;Data+Engineer+%7C+Data+Analyst;Azure+%7C+Databricks+%7C+Microsoft+Fabric;LLM+%26+Agentic+AI+Builder;Mechanical+Eng+%E2%86%92+Computer+Scientist)](https://git.io/typing-svg)
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-puneeth0106.github.io-2196F3?style=for-the-badge&logo=github&logoColor=white)](https://puneeth0106.github.io) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-2196F3?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/puneeth-kumar-amudala-4bb7a4245) [![Medium](https://img.shields.io/badge/Medium-Follow-242a35?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@puneeth01062002) [![Email](https://img.shields.io/badge/Email-Contact-242a35?style=for-the-badge&logo=gmail&logoColor=white)](mailto:puneethkumaramudala@gmail.com)
-
 </div>
 
 ---
@@ -66,11 +62,11 @@
 ## GitHub Stats
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Puneeth0106&show_icons=true&hide_border=true&title_color=2196F3&icon_color=2196F3&text_color=ffffff&bg_color=242a35" height="165" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Puneeth0106&layout=compact&hide_border=true&title_color=2196F3&text_color=ffffff&bg_color=242a35&hide=html,jupyter%20notebook" height="165" />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Puneeth0106&show_icons=true&hide_border=true&title_color=2196F3&icon_color=2196F3&text_color=ffffff&bg_color=242a35) &nbsp; ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Puneeth0106&layout=compact&hide_border=true&title_color=2196F3&text_color=ffffff&bg_color=242a35&hide=html,jupyter%20notebook)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Puneeth0106&hide_border=true&ring=2196F3&fire=2196F3&currStreakLabel=2196F3&background=242a35&stroke=2196F3&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff)
-
+  <img src="https://streak-stats.demolab.com?user=Puneeth0106&hide_border=true&ring=2196F3&fire=2196F3&currStreakLabel=2196F3&background=242a35&stroke=2196F3&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff" />
 </div>
 
 ---
