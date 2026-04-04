@@ -66,8 +66,8 @@
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Puneeth0106&show_icons=true&hide_border=true&title_color=2196F3&icon_color=2196F3&text_color=ffffff&bg_color=242a35" height="165" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Puneeth0106&layout=compact&hide_border=true&title_color=2196F3&text_color=ffffff&bg_color=242a35&hide=html,jupyter%20notebook" height="165" /><br/>
-  <img src="https://streak-stats.demolab.com?user=Puneeth0106&hide_border=true&ring=2196F3&fire=2196F3&currStreakLabel=2196F3&background=242a35&stroke=2196F3&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Puneeth0106&show_icons=true&hide_border=true&title_color=2196F3&icon_color=2196F3&text_color=ffffff&bg_color=242a35" alt="GitHub Stats" height="165" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Puneeth0106&layout=compact&hide_border=true&title_color=2196F3&text_color=ffffff&bg_color=242a35&hide=html,jupyter%20notebook" alt="Top Languages" height="165" /><br/>
+  <img src="https://streak-stats.demolab.com?user=Puneeth0106&hide_border=true&ring=2196F3&fire=2196F3&currStreakLabel=2196F3&background=242a35&stroke=2196F3&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" />
 </div>
 
 ---
