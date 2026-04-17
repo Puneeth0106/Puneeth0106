@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Syne+Mono&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+ML+Engineer;Data+Engineer+%7C+Data+Analyst;Azure+%7C+Databricks+%7C+Microsoft+Fabric;LLM+%26+Agentic+AI+Builder;Mechanical+Eng+%E2%86%92+Computer+Scientist)](https://git.io/typing-svg)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-puneeth0106.github.io-2196F3?style=for-the-badge&logo=github&logoColor=white)](https://puneeth0106.github.io) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-2196F3?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/puneeth-kumar-amudala-4bb7a4245) [![Medium](https://img.shields.io/badge/Medium-Follow-242a35?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@puneeth01062002) [![Email](https://img.shields.io/badge/Email-Contact-242a35?style=for-the-badge&logo=gmail&logoColor=white)](mailto:puneethkumaramudala@gmail.com)
+[![Website](https://img.shields.io/badge/Website-puneethamudala.com-2196F3?style=for-the-badge&logo=github&logoColor=white)](https://puneethamudala.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-2196F3?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/puneeth-kumar-amudala-4bb7a4245) [![Medium](https://img.shields.io/badge/Medium-Follow-242a35?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@puneeth01062002) [![Email](https://img.shields.io/badge/Email-Contact-242a35?style=for-the-badge&logo=gmail&logoColor=white)](mailto:puneethkumaramudala@gmail.com)
 
 </div>
 
@@ -53,6 +53,8 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
+| [HR-Management-System-MCP-server](https://github.com/Puneeth0106/HR-Management-System-MCP-server) | MCP server exposing 13 HR tools for employee onboarding, leave tracking, meeting scheduling, and IT ticketing via AI assistants | FastMCP · Python · Pydantic · SMTP |
+| [NLP-log-classification](https://github.com/Puneeth0106/NLP-log-classification) | Cascading log classifier: regex → BERT embeddings → GPT-4o fallback, served via FastAPI REST endpoint for batch CSV processing | FastAPI · BERT · scikit-learn · GPT-4o · LangChain |
 | [Blog-Generation-Agent](https://github.com/Puneeth0106/Blog-Generation-Agent-With-LangGraph-and-FastAPI) | Multi-language SEO blog generation agent with 7-node LangGraph pipeline and 5 translation paths | LangGraph · OpenAI · Groq · FastAPI · LangSmith |
 | [Ecommerce-Chatbot](https://github.com/Puneeth0106/Ecommerce-Chatbot) | Multi-intent chatbot with semantic routing, vector FAQ retrieval, and NLP-to-SQL over 900+ products | Groq LLM · ChromaDB · Streamlit · SQLite |
 | [Car-Damage-Detection](https://github.com/Puneeth0106/Car-Damage-Detection-Using-ResNet) | Fine-tuned ResNet50 for 6-class car damage classification at 80% accuracy, deployed full-stack on AWS EC2 | PyTorch · FastAPI · Docker · React · AWS EC2 |
