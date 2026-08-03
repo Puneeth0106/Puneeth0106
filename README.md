@@ -2,9 +2,9 @@
 
 # Hi, I'm Puneeth Kumar Amudala 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Syne+Mono&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+ML+Engineer;Data+Engineer+%7C+Data+Analyst;Azure+%7C+Databricks+%7C+Microsoft+Fabric;LLM+%26+Agentic+AI+Builder;Mechanical+Eng+%E2%86%92+Computer+Scientist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Syne+Mono&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Generative+AI+Engineer;RAG+%7C+Agents+%7C+MCP;AWS+Bedrock+%7C+Azure+OpenAI;LLM+Evaluation+%26+Observability;Mechanical+Eng+%E2%86%92+Computer+Scientist)](https://git.io/typing-svg)
 
-[![Website](https://img.shields.io/badge/Website-puneethamudala.com-2196F3?style=for-the-badge&logo=github&logoColor=white)](https://puneethamudala.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-2196F3?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/puneeth-kumar-amudala-4bb7a4245) [![Medium](https://img.shields.io/badge/Medium-Follow-242a35?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@puneeth01062002) [![Email](https://img.shields.io/badge/Email-Contact-242a35?style=for-the-badge&logo=gmail&logoColor=white)](mailto:puneethkumaramudala@gmail.com)
+[![Website](https://img.shields.io/badge/Website-puneethamudala.com-2196F3?style=for-the-badge&logo=github&logoColor=white)](https://puneethamudala.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-2196F3?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/puneeth-amudala) [![Medium](https://img.shields.io/badge/Medium-Follow-242a35?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@puneeth01062002) [![Email](https://img.shields.io/badge/Email-Contact-242a35?style=for-the-badge&logo=gmail&logoColor=white)](mailto:puneethkumaramudala@gmail.com)
 
 </div>
 
@@ -12,11 +12,11 @@
 
 ## About Me
 
-**AI & Data Engineering Specialist** with 2+ years of experience architecting scalable data pipelines, building production-grade ML/Deep Learning models, and deploying LLM-powered AI Agents. I made an unconventional leap from **Mechanical Engineering → Computer Science**, inspired by the ChatGPT revolution — and never looked back.
+**AI Engineer** with 4 years of experience building production Generative AI (GenAI) and Large Language Model (LLM) systems in Python — Retrieval-Augmented Generation (RAG), agentic tool-use via Model Context Protocol (MCP), and evaluation-driven delivery on AWS Bedrock and Azure OpenAI. I made an unconventional leap from **Mechanical Engineering → Computer Science**, inspired by the ChatGPT revolution — and never looked back.
 
-- 🎓 **M.S. Applied Computer Science** — Grand Valley State University, Michigan (Expected May 2026) · GPA: 3.76
+- 🎓 **M.S. Computer Science** — Grand Valley State University, Allendale, MI (Jan 2024 – May 2026) · GPA: 3.7
 - 🏭 **B.Tech Mechanical Engineering** — Sri Venkateswara University, India · GPA: 3.54
-- 🌍 Domain experience: **Finance · Retail · Healthcare · Agriculture**
+- 🌍 Domain experience: **Insurance · Education · Retail**
 
 ---
 
@@ -61,7 +61,7 @@
 | [Diabetes-Risk-Analysis](https://github.com/Puneeth0106/Diabetes-Risk-Analysis) | 3-stage ELT pipeline automating processing of 400K+ public health records with Power BI dashboards | Azure Databricks · Azure Data Factory · Power BI |
 | [Microsoft-Fabric-Projects](https://github.com/Puneeth0106/Microsoft-Fabric-Projects/tree/master/Covid-19-Data-Analysis) | End-to-end COVID-19 data pipeline: ingest → Lakehouse → semantic model → BI dashboards | Microsoft Fabric · Dataflow Gen2 · Power BI |
 | [Bing-News-Analytics](https://github.com/Puneeth0106/Bing-News-Analytics) | REST ingestion → PySpark transforms → ML sentiment → real-time BI | PySpark · Azure · Power BI |
-| [Crop-Disease-Management](https://github.com/Puneeth0106/Crop-Disease-Management) | Relational DB backend with alerts, recommendations, and yield tracking | MySQL · Stored Procedures |
+| [Crop-Disease-Management](https://github.com/Puneeth0106/Crop-Disease-Management-System) | Relational DB backend with alerts, recommendations, and yield tracking | MySQL · Stored Procedures |
 
 ---
 
