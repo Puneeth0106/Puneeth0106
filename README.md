@@ -2,7 +2,7 @@
 
 # Hi, I'm Puneeth Kumar Amudala 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Syne+Mono&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Generative+AI+Engineer;RAG+%7C+Agents+%7C+MCP;AWS+Bedrock+%7C+Azure+OpenAI;LLM+Evaluation+%26+Observability;Mechanical+Eng+%E2%86%92+Computer+Scientist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Syne+Mono&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=AI+Data+Engineer;Airflow+%7C+PySpark+%7C+dbt+%7C+Databricks;BigQuery+%7C+Snowflake+%7C+Redshift;RAG+%7C+LangGraph+%7C+MCP;AWS+%7C+Azure+%7C+GCP)](https://git.io/typing-svg)
 
 [![Website](https://img.shields.io/badge/Website-puneethamudala.com-2196F3?style=for-the-badge&logo=github&logoColor=white)](https://puneethamudala.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-2196F3?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/puneeth-amudala) [![Medium](https://img.shields.io/badge/Medium-Follow-242a35?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@puneeth01062002) [![Email](https://img.shields.io/badge/Email-Contact-242a35?style=for-the-badge&logo=gmail&logoColor=white)](mailto:puneethkumaramudala@gmail.com)
 
@@ -12,30 +12,42 @@
 
 ## About Me
 
-**AI Engineer** with 4 years of experience building production Generative AI (GenAI) and Large Language Model (LLM) systems in Python — Retrieval-Augmented Generation (RAG), agentic tool-use via Model Context Protocol (MCP), and evaluation-driven delivery on AWS Bedrock and Azure OpenAI. I made an unconventional leap from **Mechanical Engineering → Computer Science**, inspired by the ChatGPT revolution — and never looked back.
+**AI Data Engineer** with 5 years of experience building cloud pipelines, lakehouse models, and AI retrieval workflows with Python, SQL, and PySpark across AWS, Azure, and GCP. Experience spans retail catalog, incident reporting, and customer analytics.
 
-- 🎓 **M.S. Computer Science** — Grand Valley State University, Allendale, MI (Jan 2024 – May 2026) · GPA: 3.7
-- 🏭 **B.Tech Mechanical Engineering** — Sri Venkateswara University, India · GPA: 3.54
-- 🌍 Domain experience: **Insurance · Education · Retail**
+- 💼 **AI Data Engineer, Walmart** (GCP Catalog Data Platform), May 2026 to present
+- 🎓 **M.S. Applied Computer Science**, Grand Valley State University, Allendale, MI (Jan 2024 to May 2026) · GPA: 3.7
+- 📍 Grand Rapids, MI
+- 🌍 Domains: **Retail · Insurance · Customer Analytics · Education**
+
+---
+
+## Experience
+
+| Role | Company | Dates | Highlights |
+|------|---------|-------|------------|
+| AI Data Engineer | Walmart | May 2026 to Present | Airflow + PySpark ingestion into BigQuery (cut catalog publication time from 6 to 2 hours), 35% fewer bytes scanned, LangGraph + MCP supplier onboarding |
+| AI DevOps Engineer | Grand Valley State University | Jan 2026 to May 2026 | Led a 6 person team on a financial literacy RAG assistant with Azure Data Factory, ADLS Gen2, Azure AI Search, Kubernetes |
+| AI Data Engineer | AIG | Jun 2024 to Jun 2025 | Databricks on AWS: Auto Loader + PySpark into Delta Lake, dbt models, Bedrock retrieval over OpenSearch |
+| Data Engineer | Cognizant | Nov 2021 to Dec 2023 | AWS Glue + Airflow pipelines over 2M+ customer records, Teradata to Redshift migration, 30% faster reporting queries |
 
 ---
 
 ## Tech Stack
 
-### Languages & Core
-![Python](https://img.shields.io/badge/Python-242a35?style=flat-square&logo=python&logoColor=2196F3) ![SQL](https://img.shields.io/badge/SQL-242a35?style=flat-square&logo=postgresql&logoColor=2196F3) ![PySpark](https://img.shields.io/badge/PySpark-242a35?style=flat-square&logo=apachespark&logoColor=2196F3) ![KQL](https://img.shields.io/badge/KQL-242a35?style=flat-square&logo=microsoft&logoColor=2196F3)
+### Languages & Processing
+![Python](https://img.shields.io/badge/Python-242a35?style=flat-square&logo=python&logoColor=2196F3) ![SQL](https://img.shields.io/badge/SQL-242a35?style=flat-square&logo=postgresql&logoColor=2196F3) ![PySpark](https://img.shields.io/badge/PySpark-242a35?style=flat-square&logo=apachespark&logoColor=2196F3) ![dbt](https://img.shields.io/badge/dbt-242a35?style=flat-square&logo=dbt&logoColor=2196F3)
 
-### Cloud & Data Engineering
-![Azure](https://img.shields.io/badge/Azure-242a35?style=flat-square&logo=microsoftazure&logoColor=2196F3) ![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-242a35?style=flat-square&logo=microsoft&logoColor=2196F3) ![Databricks](https://img.shields.io/badge/Databricks-242a35?style=flat-square&logo=databricks&logoColor=2196F3) ![AWS](https://img.shields.io/badge/AWS-242a35?style=flat-square&logo=amazonaws&logoColor=2196F3) ![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-242a35?style=flat-square&logo=microsoftazure&logoColor=2196F3) ![Power BI](https://img.shields.io/badge/Power_BI-242a35?style=flat-square&logo=powerbi&logoColor=2196F3)
+### Data Platforms
+![Databricks](https://img.shields.io/badge/Databricks-242a35?style=flat-square&logo=databricks&logoColor=2196F3) ![Delta Lake](https://img.shields.io/badge/Delta_Lake-242a35?style=flat-square&logo=delta&logoColor=2196F3) ![BigQuery](https://img.shields.io/badge/BigQuery-242a35?style=flat-square&logo=googlebigquery&logoColor=2196F3) ![Redshift](https://img.shields.io/badge/Redshift-242a35?style=flat-square&logo=amazonredshift&logoColor=2196F3) ![Snowflake](https://img.shields.io/badge/Snowflake-242a35?style=flat-square&logo=snowflake&logoColor=2196F3) ![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-242a35?style=flat-square&logo=microsoft&logoColor=2196F3)
 
-### AI / ML / LLM
-![LangChain](https://img.shields.io/badge/LangChain-242a35?style=flat-square&logo=langchain&logoColor=2196F3) ![LangGraph](https://img.shields.io/badge/LangGraph-242a35?style=flat-square&logo=langchain&logoColor=2196F3) ![PyTorch](https://img.shields.io/badge/PyTorch-242a35?style=flat-square&logo=pytorch&logoColor=2196F3) ![scikit-learn](https://img.shields.io/badge/scikit--learn-242a35?style=flat-square&logo=scikitlearn&logoColor=2196F3) ![HuggingFace](https://img.shields.io/badge/HuggingFace-242a35?style=flat-square&logo=huggingface&logoColor=2196F3) ![FastAPI](https://img.shields.io/badge/FastAPI-242a35?style=flat-square&logo=fastapi&logoColor=2196F3) ![ChromaDB](https://img.shields.io/badge/ChromaDB-242a35?style=flat-square&logoColor=2196F3) ![OpenAI](https://img.shields.io/badge/OpenAI_API-242a35?style=flat-square&logo=openai&logoColor=2196F3)
+### Pipelines & Cloud
+![Airflow](https://img.shields.io/badge/Airflow-242a35?style=flat-square&logo=apacheairflow&logoColor=2196F3) ![AWS](https://img.shields.io/badge/AWS-242a35?style=flat-square&logo=amazonaws&logoColor=2196F3) ![Azure](https://img.shields.io/badge/Azure-242a35?style=flat-square&logo=microsoftazure&logoColor=2196F3) ![GCP](https://img.shields.io/badge/GCP-242a35?style=flat-square&logo=googlecloud&logoColor=2196F3) ![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-242a35?style=flat-square&logo=microsoftazure&logoColor=2196F3) ![Kafka](https://img.shields.io/badge/Kafka-242a35?style=flat-square&logo=apachekafka&logoColor=2196F3)
 
-### MLOps & Deployment
-![MLflow](https://img.shields.io/badge/MLflow-242a35?style=flat-square&logo=mlflow&logoColor=2196F3) ![Docker](https://img.shields.io/badge/Docker-242a35?style=flat-square&logo=docker&logoColor=2196F3) ![Optuna](https://img.shields.io/badge/Optuna-242a35?style=flat-square&logoColor=2196F3) ![Airflow](https://img.shields.io/badge/Airflow-242a35?style=flat-square&logo=apacheairflow&logoColor=2196F3) ![CI/CD](https://img.shields.io/badge/CI%2FCD-242a35?style=flat-square&logo=githubactions&logoColor=2196F3) ![LangSmith](https://img.shields.io/badge/LangSmith-242a35?style=flat-square&logo=langchain&logoColor=2196F3)
+### AI Data & Agents
+![RAG](https://img.shields.io/badge/RAG-242a35?style=flat-square&logoColor=2196F3) ![LangGraph](https://img.shields.io/badge/LangGraph-242a35?style=flat-square&logo=langchain&logoColor=2196F3) ![MCP](https://img.shields.io/badge/MCP-242a35?style=flat-square&logoColor=2196F3) ![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-242a35?style=flat-square&logo=amazonaws&logoColor=2196F3) ![Azure AI Search](https://img.shields.io/badge/Azure_AI_Search-242a35?style=flat-square&logo=microsoftazure&logoColor=2196F3) ![OpenSearch](https://img.shields.io/badge/OpenSearch-242a35?style=flat-square&logo=opensearch&logoColor=2196F3) ![FastAPI](https://img.shields.io/badge/FastAPI-242a35?style=flat-square&logo=fastapi&logoColor=2196F3)
 
-### Tools
-![VS Code](https://img.shields.io/badge/VS_Code-242a35?style=flat-square&logo=visualstudiocode&logoColor=2196F3) ![Git](https://img.shields.io/badge/Git-242a35?style=flat-square&logo=git&logoColor=2196F3) ![MySQL](https://img.shields.io/badge/MySQL-242a35?style=flat-square&logo=mysql&logoColor=2196F3) ![Jupyter](https://img.shields.io/badge/Jupyter-242a35?style=flat-square&logo=jupyter&logoColor=2196F3)
+### Quality & Delivery
+![Great Expectations](https://img.shields.io/badge/Great_Expectations-242a35?style=flat-square&logoColor=2196F3) ![Docker](https://img.shields.io/badge/Docker-242a35?style=flat-square&logo=docker&logoColor=2196F3) ![Kubernetes](https://img.shields.io/badge/Kubernetes-242a35?style=flat-square&logo=kubernetes&logoColor=2196F3) ![Terraform](https://img.shields.io/badge/Terraform-242a35?style=flat-square&logo=terraform&logoColor=2196F3) ![Git](https://img.shields.io/badge/Git-242a35?style=flat-square&logo=git&logoColor=2196F3) ![CI/CD](https://img.shields.io/badge/CI%2FCD-242a35?style=flat-square&logo=githubactions&logoColor=2196F3)
 
 ---
 
@@ -43,25 +55,40 @@
 
 | Badge | Certification | Issuer | Date |
 |-------|--------------|--------|------|
-| [![Microsoft Fabric Analytics](https://img.shields.io/badge/Fabric_Analytics_Engineer_Associate-242a35?style=flat-square&logo=microsoft&logoColor=2196F3)](https://learn.microsoft.com/en-us/users/PuneethkumarAmudala-2163/credentials/68C46B35129AB4A0) | Microsoft Certified: Fabric Analytics Engineer Associate | Microsoft | Jan 2026 |
-| [![Microsoft Fabric Data Engineer](https://img.shields.io/badge/Fabric_Data_Engineer_Associate-242a35?style=flat-square&logo=microsoft&logoColor=2196F3)](https://learn.microsoft.com/en-us/users/puneethkumaramudala-2163/credentials/59683c57e332ede2) | Microsoft Certified: Fabric Data Engineer Associate | Microsoft | Oct 2025 |
+| ![SQL AI Developer](https://img.shields.io/badge/SQL_AI_Developer_Associate-242a35?style=flat-square&logo=microsoft&logoColor=2196F3) | Microsoft Certified: SQL AI Developer Associate (DP-800) | Microsoft | Sep 2026 |
+| [![Azure AI Apps and Agents](https://img.shields.io/badge/AI_Apps_and_Agents_Developer_Associate-242a35?style=flat-square&logo=microsoft&logoColor=2196F3)](https://learn.microsoft.com/en-us/users/puneethkumaramudala-2163/credentials/c4cb907f879307da) | Microsoft Certified: Azure AI Apps and Agents Developer Associate (AI-103) | Microsoft | Aug 2026 |
+| [![Microsoft Fabric Analytics](https://img.shields.io/badge/Fabric_Analytics_Engineer_Associate-242a35?style=flat-square&logo=microsoft&logoColor=2196F3)](https://learn.microsoft.com/en-us/users/PuneethkumarAmudala-2163/credentials/68C46B35129AB4A0) | Microsoft Certified: Fabric Analytics Engineer Associate (DP-600) | Microsoft | Jan 2026 |
+| [![Microsoft Fabric Data Engineer](https://img.shields.io/badge/Fabric_Data_Engineer_Associate-242a35?style=flat-square&logo=microsoft&logoColor=2196F3)](https://learn.microsoft.com/en-us/users/puneethkumaramudala-2163/credentials/59683c57e332ede2) | Microsoft Certified: Fabric Data Engineer Associate (DP-700) | Microsoft | Oct 2025 |
 | [![Databricks](https://img.shields.io/badge/Data_Engineer_Associate-242a35?style=flat-square&logo=databricks&logoColor=2196F3)](https://credentials.databricks.com/60fbaceb-08e5-4971-a616-c3d2eacae0cd) | Databricks Certified Data Engineer Associate | Databricks | May 2025 |
 
 ---
 
 ## Featured Projects
 
+### Data Engineering
+
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [HR-Management-System-MCP-server](https://github.com/Puneeth0106/HR-Management-System-MCP-server) | MCP server exposing 13 HR tools for employee onboarding, leave tracking, meeting scheduling, and IT ticketing via AI assistants | FastMCP · Python · Pydantic · SMTP |
-| [NLP-log-classification](https://github.com/Puneeth0106/NLP-log-classification) | Cascading log classifier: regex → BERT embeddings → GPT-4o fallback, served via FastAPI REST endpoint for batch CSV processing | FastAPI · BERT · scikit-learn · GPT-4o · LangChain |
-| [Blog-Generation-Agent](https://github.com/Puneeth0106/Blog-Generation-Agent-With-LangGraph-and-FastAPI) | Multi-language SEO blog generation agent with 7-node LangGraph pipeline and 5 translation paths | LangGraph · OpenAI · Groq · FastAPI · LangSmith |
-| [Ecommerce-Chatbot](https://github.com/Puneeth0106/Ecommerce-Chatbot) | Multi-intent chatbot with semantic routing, vector FAQ retrieval, and NLP-to-SQL over 900+ products | Groq LLM · ChromaDB · Streamlit · SQLite |
-| [Car-Damage-Detection](https://github.com/Puneeth0106/Car-Damage-Detection-Using-ResNet) | Fine-tuned ResNet50 for 6-class car damage classification at 80% accuracy, deployed full-stack on AWS EC2 | PyTorch · FastAPI · Docker · React · AWS EC2 |
-| [Diabetes-Risk-Analysis](https://github.com/Puneeth0106/Diabetes-Risk-Analysis) | 3-stage ELT pipeline automating processing of 400K+ public health records with Power BI dashboards | Azure Databricks · Azure Data Factory · Power BI |
-| [Microsoft-Fabric-Projects](https://github.com/Puneeth0106/Microsoft-Fabric-Projects/tree/master/Covid-19-Data-Analysis) | End-to-end COVID-19 data pipeline: ingest → Lakehouse → semantic model → BI dashboards | Microsoft Fabric · Dataflow Gen2 · Power BI |
-| [Bing-News-Analytics](https://github.com/Puneeth0106/Bing-News-Analytics) | REST ingestion → PySpark transforms → ML sentiment → real-time BI | PySpark · Azure · Power BI |
-| [Crop-Disease-Management](https://github.com/Puneeth0106/Crop-Disease-Management-System) | Relational DB backend with alerts, recommendations, and yield tracking | MySQL · Stored Procedures |
+| [Flight-Data-Pipeline](https://github.com/Puneeth0106/Realtime-flight-data-engineering) | Airflow pipeline every 30 minutes moving live OpenSky data through Bronze, Silver, and Gold layers into Snowflake; keyed MERGEs prevent duplicates on reruns | Python · Airflow · Snowflake |
+| [AWS-Cost-Optimizer](https://github.com/Puneeth0106/Aws-cost-optimizer) | Streamlit dashboard combining AWS billing and inventory across 7 resource categories, with a LangGraph advisor that suggests savings | Streamlit · LangGraph · Terraform · AWS |
+| [NYC-Green-Taxi](https://github.com/Puneeth0106/NYC-Green-Taxi-Data-Engineering-Project) | Azure Synapse pipeline processing 2.3M trips across 19 monthly partitions into a Power BI report on demand and payments | Azure Synapse · Power BI |
+| [Bing-News-Intelligence](https://github.com/Puneeth0106/Microsoft-Fabric-Projects/tree/master/Bing-News-Reporting) | PySpark notebooks curate articles and score sentiment, with Delta tables feeding a Power BI report and negative news alerts | Microsoft Fabric · PySpark · Delta · Power BI |
+| [Crop-Disease-Management](https://github.com/Puneeth0106/Crop-Disease-Management-System) | Relational database backend with alerts, recommendations, and yield tracking | MySQL · Stored Procedures |
+
+### AI Engineering
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [Advanced-RAG-Agent](https://github.com/Puneeth0106/Advanced-RAG-Agent) | Conversational RAG agent with an 8 node LangGraph workflow: query reformulation, topic validation, relevance filtering, and bounded retries | LangGraph · RAG · Python |
+| [HRMS-MCP-Server](https://github.com/Puneeth0106/HR-Management-System-MCP-server) | MCP server exposing 12 HR tools (employee records, leave, meetings, tickets, email) for Claude Desktop and other MCP clients | FastMCP · Python · Pydantic |
+| [Blog-Agent](https://github.com/Puneeth0106/Blog-Generation-Agent-With-LangGraph-and-FastAPI) | LangGraph agent using GPT-4o-mini to create SEO optimized blogs in 6 languages, deployed on Vercel | LangGraph · OpenAI · FastAPI |
+| [E-Commerce-Chatbot](https://github.com/Puneeth0106/Ecommerce-Chatbot) | Chatbot with semantic routing, vector FAQ retrieval, and natural language product search | Groq LLM · ChromaDB · Streamlit |
+
+---
+
+## Publications
+
+- **Co-author**, *Soil Moisture Prediction and Benchmark Reliability: A Review with Multi-Site SMAP–ISMN Analysis*. International Journal on Advances in Intelligent Systems, vol. 19, 2026. [Read the paper](https://www.thinkmind.org/library/IntSys/IntSys_v19_n12_2026/intsys_v19_n12_2026_5.html)
 
 ---
 
@@ -76,14 +103,14 @@
 
 ## Achievements
 
-- 🏆 **Finalist** — Grand Rapids DeepTech Pitch Competition (presented AI/ML solution to investors)
-- 🥇 **Best Innovation Award** — outstanding technology contribution
+- 🏆 **Finalist**, Grand Rapids DeepTech Pitch Competition (presented an AI/ML solution to investors)
+- 🥇 **[Best Innovation Award](https://drive.google.com/file/d/1xYpEl_GSo88ZtoS8ycbOjYdTDPUvhLE6/view?usp=sharing)** for outstanding technology contribution
 
 ---
 
 <div align="center">
 
-*"AI won't replace humans. But humans who use AI will replace those who don't." — Sam Altman*
+*"AI won't replace humans. But humans who use AI will replace those who don't." (Sam Altman)*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Puneeth0106&color=2196f3&style=flat-square&label=Profile+Views)
 
