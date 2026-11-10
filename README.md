@@ -25,7 +25,7 @@
 
 ## About Me
 
-AI Data Engineer with 5 years of experience across retail, insurance and customer analytics. Currently building the GCP catalog data platform at **Walmart**. M.S. in Applied Computer Science from Grand Valley State University. Based in Grand Rapids, MI.
+AI Data Engineer with 5 years of experience across retail, insurance and customer analytics. Currently building the GCP catalog data platform at **Walmart**. [M.S. in Applied Computer Science](https://drive.google.com/file/d/1Cj59BOJ15tybcpXFGgCegIvjarrE2yZO/view) from Grand Valley State University. Based in Grand Rapids, MI.
 
 ---
 
@@ -87,10 +87,39 @@ AI Data Engineer with 5 years of experience across retail, insurance and custome
 
 - **Co-author**, *Soil Moisture Prediction and Benchmark Reliability: A Review with Multi-Site SMAP–ISMN Analysis*. International Journal on Advances in Intelligent Systems, vol. 19, 2026. [Read the paper](https://www.thinkmind.org/library/IntSys/IntSys_v19_n12_2026/intsys_v19_n12_2026_5.html)
 
-## Achievements
+## Honors and Awards
 
-- **Finalist**, Grand Rapids DeepTech Pitch Competition (presented an AI/ML solution to investors)
-- **[Best Innovation Award](https://drive.google.com/file/d/1xYpEl_GSo88ZtoS8ycbOjYdTDPUvhLE6/view?usp=sharing)** for outstanding technology contribution
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://drive.google.com/file/d/1HZYjYz4NlrD9zbSvnznMqxTLBwuhBlqR/view"><img src="assets/certificates/best-research-project.jpg" width="100%" alt="Best Research Project certificate, GVSU College of Computing"/></a><br/>
+      <b>Best Research Project</b><br/>
+      <sub>GVSU College of Computing Innovation Day · Apr 2026</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://drive.google.com/file/d/1446qoGw_LFkcfLIklHj7R7x9o75W0wwb/view"><img src="assets/certificates/deeptech-finalist-nextmeal-ai.jpg" width="100%" alt="Grand Rapids DeepTech Pitch Competition finalist certificate for NextMeal AI"/></a><br/>
+      <b>Finalist, Grand Rapids DeepTech Pitch Competition</b><br/>
+      <sub>Final project: NextMeal AI · Dec 2025</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://drive.google.com/file/d/1ukgFyeRR93ScyXqvvvwia_YIvIPZcwqr/view"><img src="assets/certificates/intl-student-experience-scholarship.jpg" width="100%" alt="International Student Experience Scholarship certificate, GVSU"/></a><br/>
+      <b>International Student Experience Scholarship</b><br/>
+      <sub>Grand Valley State University · Winter 2026</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://drive.google.com/file/d/1adWms0HQjtX4RxASA3h-qeQp9-oaakxj/view"><img src="assets/certificates/svuce-innovation-award.jpg" width="100%" alt="Innovation Award certificate of merit, SVU College of Engineering"/></a><br/>
+      <b>Innovation Award (Certificate of Merit)</b><br/>
+      <sub>SVU College of Engineering, Tirupati · Apr 2023</sub>
+    </td>
+  </tr>
+</table>
+
+- **[Graduation Regalia Scholarship](https://drive.google.com/file/d/176BPKvw7n33L6eRG1EyKOleO2BQMWKYP/view)**, GVSU, for outstanding academic achievement (Winter 2026)
+- **[Pratibha Award](https://drive.google.com/file/d/17itdyoVoNRIk6lFLp0V_4RdDsYfZoERi/view)**, Government of Andhra Pradesh, for excellence in the Secondary School Certificate exam (2017)
+
+<sub>All certificates: [Google Drive folder](https://drive.google.com/drive/folders/1qdZ8TwPwxwTWSZIaXLJM4hDddFS-dZee)</sub>
 
 ---
 
